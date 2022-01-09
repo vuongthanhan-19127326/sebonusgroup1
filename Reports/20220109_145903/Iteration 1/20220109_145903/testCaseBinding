@@ -1,0 +1,20 @@
+{"testCaseName":"Test Cases/I1/Login as guest","testCaseId":"Test Cases/I1/Login as guest"}
+{"testCaseName":"Test Cases/I1/Create a event user type (event button)","testCaseId":"Test Cases/I1/Create a event user type (event button)"}
+{"testCaseName":"Test Cases/I1/Create a event category type (event button)","testCaseId":"Test Cases/I1/Create a event category type (event button)"}
+{"testCaseName":"Test Cases/I1/Create a event site type (event button)","testCaseId":"Test Cases/I1/Create a event site type (event button)"}
+{"testCaseName":"Test Cases/I1/Create a event course type (event button)","testCaseId":"Test Cases/I1/Create a event course type (event button)"}
+{"testCaseName":"Test Cases/I1/View a course","testCaseId":"Test Cases/I1/View a course"}
+{"testCaseName":"Test Cases/I1/Search user and chat","testCaseId":"Test Cases/I1/Search user and chat"}
+{"testCaseName":"Test Cases/I1/Chat starred","testCaseId":"Test Cases/I1/Chat starred"}
+{"testCaseName":"Test Cases/I1/Chat private","testCaseId":"Test Cases/I1/Chat private"}
+{"testCaseName":"Test Cases/I1/Cancel add contact","testCaseId":"Test Cases/I1/Cancel add contact"}
+{"testCaseName":"Test Cases/I1/Add contact","testCaseId":"Test Cases/I1/Add contact"}
+{"testCaseName":"Test Cases/I1/Accept contact","testCaseId":"Test Cases/I1/Accept contact"}
+{"testCaseName":"Test Cases/I1/Remove a contact","testCaseId":"Test Cases/I1/Remove a contact"}
+{"testCaseName":"Test Cases/I1/Cancel block user","testCaseId":"Test Cases/I1/Cancel block user"}
+{"testCaseName":"Test Cases/I1/Block user","testCaseId":"Test Cases/I1/Block user"}
+{"testCaseName":"Test Cases/I1/Cancel unblock user","testCaseId":"Test Cases/I1/Cancel unblock user"}
+{"testCaseName":"Test Cases/I1/Unblock user","testCaseId":"Test Cases/I1/Unblock user"}
+{"testCaseName":"Test Cases/I1/Delete conversation (message with another user)","testCaseId":"Test Cases/I1/Delete conversation (message with another user)"}
+{"testCaseName":"Test Cases/I1/Cancel add discussion topic","testCaseId":"Test Cases/I1/Cancel add discussion topic"}
+{"testCaseName":"Test Cases/I1/Add discussion topic","testCaseId":"Test Cases/I1/Add discussion topic"}

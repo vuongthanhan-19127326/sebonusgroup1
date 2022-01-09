@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Dashboard/button_New event",
+      "brokenLocator": "//div[@id\u003d\u0027calendar-month-61d588d0368e361d588d02f85e2-1\u0027]/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027List of courses\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220109_145903/Iteration 1/20220109_145903/Object Repository/Page_Dashboard/button_New event_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Dashboard/button_Save",
+      "brokenLocator": "//button[@id\u003d\u0027yui_3_17_2_1_1641384144308_192\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Repeat weekly, creating altogether\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220109_145903/Iteration 1/20220109_145903/Object Repository/Page_Dashboard/button_Save_neighbor.png"
+    }
+  ]
+}
